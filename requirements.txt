@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain-core
+langchain-community
+langchain-groq
+scikit-learn
+fpdf2
+mysql-connector-python
+google-generativeai
+PyPDF2
+sse_starlette
+httpx
+smtplib
