@@ -11,3 +11,4 @@ PyPDF2
 sse_starlette
 httpx
 smtplib
+Ollama
